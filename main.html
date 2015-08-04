@@ -12,25 +12,38 @@
         
         
         <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.css">
-        <link rel="stylesheet" href="http://ui-grid.info/release/ui-grid-unstable.css" type="text/css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+        <!--<link rel="stylesheet" href="http://ui-grid.info/release/ui-grid-unstable.css" type="text/css">-->
         <link rel="stylesheet" type="text/css" href="/main.css">
         
         <script type="text/javascript" src="controllers.js"> </script>
     </head>
     <body>
-      <label>Hello World</label>
-        <<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="navbar-container" >
-              <div class="navbar-header">
-                <a class="navbar-brand" ui-sref="mainpage">Brand</a>
-              </div>
-                <ul class="nav navbar-nav">
-                  <li><a ui-sref="receivables">About Us</a></li>
-                  <li><a ui-sref="inventory">Products</a></li>
-                  <li><a ui-sref="payables">Contact Us</a></li>
+        <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container topnav">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand topnav" ui-sref="mainpage">Audric Industrial Merchandise</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a ui-sref="about_us">About</a></li>
+                    <li><a ui-sref="products">Products</a></li>
+                    <li><a ui-sref="contact_us">Contact</a></li>
                 </ul>
             </div>
-        </nav>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
 
         <div ui-view>
             
