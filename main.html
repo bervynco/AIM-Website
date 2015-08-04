@@ -1,0 +1,51 @@
+<html ng-app="webApp">
+    <title>Audric Industrial Merchandise</title>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.15/angular.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-smart-table/2.1.0/smart-table.js"> </script>
+        <script src="http://ui-grid.info/release/ui-grid-unstable.js"></script>-->
+        <script type="text/javascript" src="lodash.js"></script>
+        
+        
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.css">
+        <link rel="stylesheet" href="http://ui-grid.info/release/ui-grid-unstable.css" type="text/css">
+        <link rel="stylesheet" type="text/css" href="/main.css">
+        
+        <script type="text/javascript" src="controllers.js"> </script>
+    </head>
+    <body>
+      <label>Hello World</label>
+        <!--<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="navbar-container" >
+              <div class="navbar-header">
+                <a class="navbar-brand" ui-sref="mainpage">Brand</a>
+              </div>
+                <ul class="nav navbar-nav">
+                  <li><a ui-sref="inventory">Inventory</a></li>
+                  <li><a ui-sref="payables">Payables</a></li>
+                  <li><a ui-sref="receivables">Receivables</a></li>
+                  <li><a ui-sref="statement_of_accounts">Statement of Accounts</a></li>
+                  <li><a ui-sref="history">History</a></li>
+                </ul>
+                 <ul class="nav navbar-nav navbar-right">
+                  <li class="dropdown nav pull-right">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" ng-model="userName">{{userName}} <b class="caret"></b></a>
+                      <ul class="dropdown-menu dropdown-menu-right">
+                        <li><a ui-sref="accounts">User Administration</a></li>
+                        <li class="divider"></li>
+                        <li><a ui-sref="login">Sign-Out</a></li>
+                      </ul>
+                  </li>
+                </ul>
+            </div>
+        </nav>-->
+
+        <div ui-view>
+            
+        </div>
+    </body>
+</html>
