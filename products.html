@@ -1,30 +1,139 @@
-<div id="sidebar-wrapper">
-    <ul class="sidebar-nav">
-        <li class="sidebar-brand">
-            <a href="#">
-                Start Bootstrap
-            </a>
-        </li>
-        <li>
-            <a href="#">Dashboard</a>
-        </li>
-        <li>
-            <a href="#">Shortcuts</a>
-        </li>
-        <li>
-            <a href="#">Overview</a>
-        </li>
-        <li>
-            <a href="#">Events</a>
-        </li>
-        <li>
-            <a href="#">About</a>
-        </li>
-        <li>
-            <a href="#">Services</a>
-        </li>
-        <li>
-            <a href="#">Contact</a>
-        </li>
-    </ul>
+<html ng-app="webApp">
+    <title>Audric Industrial Merchandise</title>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.15/angular.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.js"> </script>
+        <script src="http://ui-grid.info/release/ui-grid-unstable.js"></script>
+        <script type="text/javascript" src="lodash.js"></script>
+        
+        
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+        <!--<link rel="stylesheet" href="http://ui-grid.info/release/ui-grid-unstable.css" type="text/css">-->
+        <link rel="stylesheet" type="text/css" href="/main.css">
+        
+        <script type="text/javascript" src="controllers.js"> </script>
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container topnav">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand topnav" href="mainpage.html">Audric Industrial Merchandise</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="aboutus.html">About</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="contactus.html">Contact</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <div class ="container" ng-controller="ProductController">
+        <div class = "row">
+            <div class="col-md-3">
+                <div id="MainMenu">
+                    <div class="list-group panel">
+                        <a href="#dropdownTooling" class="list-group-item active" data-toggle="collapse" data-parent="#MainMenu">Tooling</a>
+                        <div class="collapse" id="dropdownTooling">
+                            <div ng-repeat="item in groupItemsTooling">
+                                <a href="#SubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubMenu1">{{item}}<i class="fa fa-caret-down"></i></a>
+                            </div>
+                            <!--<div class="collapse list-group-submenu" id="SubMenu1">
+                                <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 1 a</a>
+                                <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 2 b</a>
+                                <a href="#SubSubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubSubMenu1">Subitem 3 c <i class="fa fa-caret-down"></i></a>
+                                <div class="collapse list-group-submenu list-group-submenu-1" id="SubSubMenu1">
+                                  <a href="#" class="list-group-item" data-parent="#SubSubMenu1">Sub sub item 1</a>
+                                  <a href="#" class="list-group-item" data-parent="#SubSubMenu1">Sub sub item 2</a>
+                                </div>
+                                <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 4 d</a>
+                            </div>-->
+                        </div>
+                        <a href="#dropdownCleanAndPack" class="list-group-item active" data-toggle="collapse" data-parent="#MainMenu">Cleanroom and Packaging</a>
+                        <div class="collapse" id="dropdownCleanAndPack">
+                            <div ng-repeat="item in groupItemsCleanPack">
+                                <a href="#SubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubMenu1">{{item}}<i class="fa fa-caret-down"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/800x300" alt="">
+                    <div class="caption-full">
+                        <h4>Product Name</h4>
+                        <p>See more snippets like these online store reviews at <a target="_blank" href="http://bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
+                        <p>Want to make these reviews work? Check out
+                            <strong><a href="http://maxoffsky.com/code-blog/laravel-shop-tutorial-1-building-a-review-system/">this building a review system tutorial</a>
+                            </strong>over at maxoffsky.com!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
+<!--
+<div class ="container">
+    <div class = "row">
+        <div class="col-md-3">
+            <div id="MainMenu">
+                <div class="list-group panel">
+                    <a href="#demo3" class="list-group-item active" data-toggle="collapse" data-parent="#MainMenu">Item 3</a>
+                    <div class="collapse" id="demo3">
+                        <a href="#SubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubMenu1">Subitem 1 <i class="fa fa-caret-down"></i></a>
+                        <div class="collapse list-group-submenu" id="SubMenu1">
+                            <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 1 a</a>
+                            <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 2 b</a>
+                            <a href="#SubSubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubSubMenu1">Subitem 3 c <i class="fa fa-caret-down"></i></a>
+                            <div class="collapse list-group-submenu list-group-submenu-1" id="SubSubMenu1">
+                              <a href="#" class="list-group-item" data-parent="#SubSubMenu1">Sub sub item 1</a>
+                              <a href="#" class="list-group-item" data-parent="#SubSubMenu1">Sub sub item 2</a>
+                            </div>
+                            <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 4 d</a>
+                        </div>
+                        <a href="javascript:;" class="list-group-item">Subitem 2</a>
+                        <a href="javascript:;" class="list-group-item">Subitem 3</a>
+                    </div>
+                    <a href="#demo4" class="list-group-item active" data-toggle="collapse" data-parent="#MainMenu">Item 4</a>
+                    <div class="collapse" id="demo4">
+                        <a href="" class="list-group-item">Subitem 1</a>
+                        <a href="" class="list-group-item">Subitem 2</a>
+                        <a href="" class="list-group-item">Subitem 3</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="thumbnail">
+                <img class="img-responsive" src="http://placehold.it/800x300" alt="">
+                <div class="caption-full">
+                    <h4>Product Name</h4>
+                    <p>See more snippets like these online store reviews at <a target="_blank" href="http://bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
+                    <p>Want to make these reviews work? Check out
+                        <strong><a href="http://maxoffsky.com/code-blog/laravel-shop-tutorial-1-building-a-review-system/">this building a review system tutorial</a>
+                        </strong>over at maxoffsky.com!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+-->

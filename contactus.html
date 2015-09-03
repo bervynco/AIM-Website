@@ -1,1 +1,95 @@
-<Label>Contact Us</label>
+<html ng-app="webApp">
+    <title>Audric Industrial Merchandise</title>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.15/angular.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.js"> </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.15/angular-ui-router.min.js"></script>
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-smart-table/2.1.0/smart-table.js"> </script>
+        <script src="http://ui-grid.info/release/ui-grid-unstable.js"></script>-->
+        <script type="text/javascript" src="lodash.js"></script>
+        
+        
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+        <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+        <!--<link rel="stylesheet" href="http://ui-grid.info/release/ui-grid-unstable.css" type="text/css">-->
+        <link rel="stylesheet" type="text/css" href="/main.css">
+        
+        <script type="text/javascript" src="controllers.js"> </script>
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container topnav">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand topnav" ui-sref="mainpage">Audric Industrial Merchandise</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="aboutus.html">About</a></li>
+                    <li><a href="products.html">Products</a></li>
+                    <li><a href="contactus.html">Contact</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="well well-sm">
+                    <form class="form-horizontal">
+                            <legend class="text-center header">Contact us</legend>
+                            <div class="alert alert-danger" role="alert" ng-hide="showCompleteFormErrorMessage">
+                              <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+                              <span class="sr-only">Error:</span>
+                              Complete the form
+                            </div>
+                            <div class="form-group">
+                                <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-user fa-2x"></i></span>
+                                <div class="col-md-8">
+                                    <input id="full_name" name="fullname" type="text" placeholder="Full Name" class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-envelope-o fa-2x"></i></span>
+                                <div class="col-md-8">
+                                    <input id="email" name="email" type="text" placeholder="Email Address" class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-phone fa-2x"></i></span>
+                                <div class="col-md-8">
+                                    <input id="phone" name="phone" type="text" placeholder="Contact Number" class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <span class="col-md-1 col-md-offset-2 text-center"><i class="fa fa-pencil-square-o fa-2x"></i></span>
+                                <div class="col-md-8">
+                                    <textarea class="form-control" id="message" name="message" placeholder="Enter your message for us here." rows="7"></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-12 text-center">
+                                    <i class="fa fa-spinner fa-spin" ng-hide="hideSpinner"></i>
+                                    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                                </div>
+                            </div>
+                            
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
