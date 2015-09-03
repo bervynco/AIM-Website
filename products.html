@@ -45,45 +45,139 @@
     <div class ="container" ng-controller="ProductController">
         <div class = "row">
             <div class="col-md-3">
-                <div id="MainMenu">
-                    <div class="list-group panel">
-                        <a href="#dropdownTooling" class="list-group-item active" data-toggle="collapse" data-parent="#MainMenu">Tooling</a>
-                        <div class="collapse" id="dropdownTooling">
-                            <div ng-repeat="item in groupItemsTooling">
-                                <a href="#SubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubMenu1">{{item}}<i class="fa fa-caret-down"></i></a>
-                            </div>
-                            <!--<div class="collapse list-group-submenu" id="SubMenu1">
-                                <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 1 a</a>
-                                <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 2 b</a>
-                                <a href="#SubSubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubSubMenu1">Subitem 3 c <i class="fa fa-caret-down"></i></a>
-                                <div class="collapse list-group-submenu list-group-submenu-1" id="SubSubMenu1">
-                                  <a href="#" class="list-group-item" data-parent="#SubSubMenu1">Sub sub item 1</a>
-                                  <a href="#" class="list-group-item" data-parent="#SubSubMenu1">Sub sub item 2</a>
-                                </div>
-                                <a href="#" class="list-group-item" data-parent="#SubMenu1">Subitem 4 d</a>
-                            </div>-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#tooling">Tooling</a>
+                        </h4>
+                    </div>
+                    <div id="tooling" class="panel-collapse collapse">
+                        <div class="list-group">
+                          <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                          </a>
                         </div>
-                        <a href="#dropdownCleanAndPack" class="list-group-item active" data-toggle="collapse" data-parent="#MainMenu">Cleanroom and Packaging</a>
-                        <div class="collapse" id="dropdownCleanAndPack">
-                            <div ng-repeat="item in groupItemsCleanPack">
-                                <a href="#SubMenu1" class="list-group-item" data-toggle="collapse" data-parent="#SubMenu1">{{item}}<i class="fa fa-caret-down"></i></a>
-                            </div>
+                        <div class="list-group">
+                          <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                          </a>
                         </div>
                     </div>
+                </div>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#cleaningAndPacking">Cleaning and Packing</a>
+                        </h4>
+                    </div>
+                    <div id="cleaningAndPacking" class="panel-collapse collapse">
+                        <div class="list-group">
+                          <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <a href="#" class="list-group-item active">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                          </a>
+                        </div>
+                        <div class="list-group">
+                          <a href="#" class="list-group-item">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                          </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-default">
+                  <div class="panel-heading">Search Item</div>
+                  <div class="panel-body">
+                    <form>
+                      <div class="form-group">
+                        <label>Search Text</label>
+                        <input type="text" class="form-control" placeholder="Enter text for item search">
+                      </div>
+                    </form>
+                  </div>
                 </div>
             </div>
             <div class="col-md-9">
-                <div class="thumbnail">
-                    <img class="img-responsive" src="http://placehold.it/800x300" alt="">
-                    <div class="caption-full">
-                        <h4>Product Name</h4>
-                        <p>See more snippets like these online store reviews at <a target="_blank" href="http://bootsnipp.com">Bootsnipp - http://bootsnipp.com</a>.</p>
-                        <p>Want to make these reviews work? Check out
-                            <strong><a href="http://maxoffsky.com/code-blog/laravel-shop-tutorial-1-building-a-review-system/">this building a review system tutorial</a>
-                            </strong>over at maxoffsky.com!</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+               <div class = "row">
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Tooling</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="image.jpg" alt="">
+                                </br>
+                                <a href="#" class="btn btn-primary pull-right">View More Info</a>
+                            </div>
+                            
+
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Cleanroom and Packaging</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="adjustablewriststrap.png" alt="">
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Search Item</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
                     </div>
-                </div>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Tooling</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Cleanroom and Packaging</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Search Item</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Tooling</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Cleanroom and Packaging</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">Search Item</div>
+                            <div class="panel-body">
+                                <img class="img-responsive" src="http://placehold.it/1500x1500" alt="">
+                            </div>
+                        </div>
+                    </div>
+               </div>
             </div>
         </div>
     </div>
