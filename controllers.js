@@ -1,5 +1,5 @@
 var webApp = angular.module('webApp', 
-  []);
+  ['ui.bootstrap']);
 
 webApp.factory('ProductFactory',function($http){
     var productData = $http.get('data/products.json').then(function(response) {
@@ -32,39 +32,12 @@ webApp.controller('ProductController', ['$scope', 'ProductFactory',
     var groupItemsCleanPack = [];
     $scope.groupItemsCleanPack = {};
     var temp1 = [];
-
+    $scope.productData;
+    console.log("PRODUCT CONTROLLER");
     $scope.dataHandler = function(productData){
-      for(var i = 0; i < productData.length; i++){
-        if(productData[i].groupName == "Tooling"){
-          toolingItems.push(productData[i]);
-          groupItemsTooling.push(productData[i].groupItem);
-          
-        }
-        else if(productData[i].groupName == "Cleanroom and Packaging"){
-          cleanItems.push(productData[i]);
-          groupItemsCleanPack.push(productData[i].groupItem);
-        }    
-      }
-      for(var k = 0; k < groupItemsTooling.length; k++){
-        var object = groupItemsTooling[k];
-        if(!_.contains(temp, object)){
-          temp.push(object);
-        }
-      }
-      for(var k = 0; k < groupItemsCleanPack.length; k++){
-        var object = groupItemsCleanPack[k];
-        if(!_.contains(temp1, object)){
-          temp1.push(object);
-        }
-      }
-      $scope.toolingItems = toolingItems;
-      $scope.cleanItems = cleanItems;
-
-      $scope.groupItemsTooling = temp;
-      $scope.groupItemsCleanPack = temp1;
-      
-      console.log($scope.groupItemsTooling.length);
-      console.log($scope.groupItemsCleanPack.length);
+      console.log(productData);
+      $scope.productData = productData;
+      console.log($scope.productData);
     }
 
     ProductFactory.getProductData().then(function(data){
