@@ -1,10 +1,10 @@
 ﻿/* =============================================================
    GENERAL STYLES
  ============================================================ */
-body {
+/*body {
     font-family: 'Open Sans', sans-serif;
-   
-}
+}*/
+
 .pad-top {
     padding-top:60px;
 }
@@ -89,6 +89,7 @@ p {
 
 
 .head-main-img {
+
     padding-bottom:50px;
     background: url(../img/headimage.jpg) no-repeat 50% 50%;
     background-attachment: fixed;
@@ -100,11 +101,13 @@ p {
     display: block;
     height: auto;
     min-height:300px;
-    color:#CCCC99;
+   
 }
 .head-main-img h1 {
     padding: 50px 2px 2px 10px;
     text-transform:uppercase;
+    font-family: 'Oxygen', sans-serif;
+    color: #66FF66;
 }
 
 .carousel-inner{
@@ -249,6 +252,10 @@ small {
 #footer-sec h4 {
     text-transform:uppercase;
     color:#000;
+}
+.img-circle {
+    width:200px;
+    height:200px;
 }
 
    
