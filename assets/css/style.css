@@ -48,10 +48,12 @@ p {
 
 
 .navbar {
-    padding:15px;
-    
+    padding:15px;  
 }
-
+.navbar-logo {
+    width:200px;
+    height:50px;
+}
 
 /* CLASS FOR REMOVING PADDING IN NAVBAR*/
 
