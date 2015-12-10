@@ -58,28 +58,31 @@
     <!--/.HEADING END-->
 
  <section id="port-sec">
-    <div class="form-group">
-      <label for="usr">Search Item:</label>
-      <input type="text" class="form-control" id="usr" ng-model="searchProductName" placeholder="Input Product Name">
-    </div>
     <div class="container">
-        <div class="row pad-row" >
-            <div class="col-md-12 col-sm-12" >
-                <ul class="portfolio-items col-3">
-                    <li class="portfolio-item" ng-repeat="item in productData | filter: searchProductName">
-                        <div class="item-main">
-                            <div class="portfolio-image">
-                                <img src="{{item.imageSrc}}" alt="">
-                                <!-- <div class="overlay">
-                                    <a class="preview btn btn-primary" title="Image Title Here" href="{{item.imageSrcs}}">VIEW PROJECT</a>
-                                </div> -->
-                            </div>
-                            <h5>{{item.productName}}</h5>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
+      <div class="form-group">
+        <label for="usr">Search Item:</label>
+        <input type="text" class="form-control" id="usr" ng-model="searchProductName" placeholder="Input Product Name">
+      </div>
+      <div class="alert alert-warning">
+        <strong>Warning!</strong> All pictures are only samples and not property of Audric Industrial Merchandises. 
+      </div>
+      <div class="row pad-row" >
+          <div class="col-md-12 col-sm-12" >
+              <ul class="portfolio-items col-3">
+                  <li class="portfolio-item" ng-repeat="item in productData | filter: searchProductName">
+                      <div class="item-main">
+                          <div class="portfolio-image">
+                              <img src="{{item.imageSrc}}" alt="">
+                              <!-- <div class="overlay">
+                                  <a class="preview btn btn-primary" title="Image Title Here" href="{{item.imageSrcs}}">VIEW PROJECT</a>
+                              </div> -->
+                          </div>
+                          <h5>{{item.productName}}</h5>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+      </div>
     </div>
 </section>
      <!--/. END PORTFOLIO SECTION-->
