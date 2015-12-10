@@ -1117,147 +1117,147 @@
     "groupItem": "Laboratory Garments",
     "groupNumber": 2,
     "productName": "Polypropylene Material",
-    "imageSrc": "images/polypropylenematerial.jpg"
+    "imageSrc": "images/polypropylene-material.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
     "productName": "LDPE Machine Roll",
-    "imageSrc": "images/ldpemachineroll.jpg"
+    "imageSrc": "images/LDPE-Machine-Roll.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "Stretch Film",
-    "imageSrc": "images/stretchfilm.jpg"
+    "imageSrc": "images/stretch-film.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 2,
     "productName": "Recycle paper Slip Sheet",
-    "imageSrc": "images/recyclepaperslipsheet.jpg"
+    "imageSrc": "images/recycle-paper-slip-sheet.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
     "productName": "Edge Protector w/ Aluminum Foil",
-    "imageSrc": "images/edgeprotectorwaluminumfoil.jpg"
+    "imageSrc": "images/edge-protector.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "Pallet Rubber Band",
-    "imageSrc": "images/palletrubberband.jpg"
+    "imageSrc": "images/pallet-rubber-band.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 2,
     "productName": "Recycle Paper Edge Protector",
-    "imageSrc": "images/recyclepaperedgeprotector.jpg"
+    "imageSrc": "images/recycle-paper-edge-protector.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
     "productName": "PE/PVC Shrink Film",
-    "imageSrc": "images/pepvcshrinkfilm.jpg"
+    "imageSrc": "images/pe-pvc-shrink-film.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "PVC Rigid Film",
-    "imageSrc": "images/pvcrigidfilm.jpg"
+    "imageSrc": "images/pvc-rigid-film.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 2,
     "productName": "Black Conductive High Impact Polystyrene (HIPS)",
-    "imageSrc": "images/blackconductivehighimpactpolystyrenehips.jpg"
+    "imageSrc": "images/black-conductive-high-impact-polystyrene.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
-    "productName": "Anti-Stativ PVC Rigid Film",
-    "imageSrc": "images/antistativpvcrigidfilm.jpg"
+    "productName": "Anti-Static PVC Rigid Film",
+    "imageSrc": "images/anti-static-pvc-rigid-film.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "White Ordinary High Impact Polystyrene (HIPS)",
-    "imageSrc": "images/whiteordinaryhighimpactpolystyrenehips.jpg"
+    "imageSrc": "images/white-ordinary-high-impact-polystyrene.png"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 2,
     "productName": "Anti-Static Pink Convulated PU Foam",
-    "imageSrc": "images/antistaticpinkconvulatedpufoam.jpg"
+    "imageSrc": "images/anti-static-pink-convulated-pu-foam.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
     "productName": "Clear Anti-static Tape with printed ESD symbols",
-    "imageSrc": "images/clearantistatictapewithprintedesdsymbols.jpg"
+    "imageSrc": "images/clear-anti-static-tape-with-printed-esd-symbols.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "Anti-Static VelcroStrap",
-    "imageSrc": "images/antistaticvelcrostrap.jpg"
+    "imageSrc": "images/anti-static-velcro-strap.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 2,
     "productName": "Clear anti-Static tape",
-    "imageSrc": "images/clearantistatictape.jpg"
+    "imageSrc": "images/clear-anti-static-tape.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
     "productName": "Anti-Static Shielding Tape",
-    "imageSrc": "images/antistaticshieldingtape.jpg"
+    "imageSrc": "images/anti-static-shielding-tape.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "Plastic Corrugated Black Conductive Box",
-    "imageSrc": "images/plasticcorrugatedblackconductivebox.jpg"
+    "imageSrc": "images/plastic-corrugated-black-conductive-box.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 2,
     "productName": "Plastic Corrugated Black Conductive Cover Box",
-    "imageSrc": "images/plasticcorrugatedblackconductivecoverbox.jpg"
+    "imageSrc": "images/plastic-corrugated-black-conductive-cover-box.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 3,
     "productName": "Plastic Corrugated Stackable Box",
-    "imageSrc": "images/plasticcorrugatedstackablebox.jpg"
+    "imageSrc": "images/plastic-corrugated-stackable-box.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
     "groupItem": "Packaging Materials",
     "groupNumber": 1,
     "productName": "Plastic Corrugated Regular Box",
-    "imageSrc": "images/plasticcorrugatedregularbox.jpg"
+    "imageSrc": "images/plastic-corrugated-regular-box.jpg"
   },
   {
     "groupName": "Cleanroom and Packaging",
