@@ -15,6 +15,8 @@ webApp.factory('ProductFactory',function($http){
     return factory; // returning factory to make it ready to be pulled by the controller
     
 });
+
+//14.591158, 120.996992
 webApp.controller('ProductController', ['$scope', 'ProductFactory',
   function($scope, ProductFactory){
 
