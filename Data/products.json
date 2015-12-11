@@ -64,41 +64,6 @@
   },
   {
     "groupName": "Tooling",
-    "groupItem": "Asbestos",
-    "groupNumber": 1,
-    "productName": "Pipe",
-    "imageSrc": "images/asbestospipe.jpg"
-  },
-  {
-    "groupName": "Tooling",
-    "groupItem": "Asbestos",
-    "groupNumber": 2,
-    "productName": "Cover",
-    "imageSrc": "images/coverasbestos.jpg"
-  },
-  {
-    "groupName": "Tooling",
-    "groupItem": "Asbestos",
-    "groupNumber": 3,
-    "productName": "Sheet",
-    "imageSrc": "images/sheetasbestos.jpg"
-  },
-  {
-    "groupName": "Tooling",
-    "groupItem": "Asbestos",
-    "groupNumber": 1,
-    "productName": "Roofing",
-    "imageSrc": "images/roofingasbestos.jpg"
-  },
-  {
-    "groupName": "Tooling",
-    "groupItem": "Asbestos",
-    "groupNumber": 2,
-    "productName": "Asbestos Packing",
-    "imageSrc": "images/asbestospackaging.jpg"
-  },
-  {
-    "groupName": "Tooling",
     "groupItem": "Bearing",
     "groupNumber": 3,
     "productName": "Ball Bearing",

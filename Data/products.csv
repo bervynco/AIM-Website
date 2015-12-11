@@ -1,30 +1,25 @@
-groupName,groupItem,groupNumber,products,imageSrc
+groupName,groupItem,groupNumber,productName,imageSrc
 Tooling,Abrasive,1,Sandpaper,images/sandpaper.jpg
 Tooling,Abrasive,2,Finishing Stone,images/finishingstone.jpg
 Tooling,Abrasive,3,Oil Stone,images/oilstone.jpg
-Tooling,Abrasive,1,Sharpening Stone,images/sharpeningstone.jpg
-Tooling,Air Compressor,2,1/4hp,images/hp.jpg
-Tooling,Aluminum,3,Bar,images/bar.jpg
-Tooling,Aluminum,1,Flat Bar,images/flatbar.jpg
-Tooling,Aluminum,2,Sheet ,images/sheet.jpg
-Tooling,Aluminum,3,Round Bar,images/roundbar.jpg
-Tooling,Asbestos,1,Pipe,images/pipe.jpg
-Tooling,Asbestos,2,Cover,images/cover.jpg
-Tooling,Asbestos,3,Sheet ,images/sheet.jpg
-Tooling,Asbestos,1,Roofing,images/roofing.jpg
-Tooling,Asbestos,2,Asbestos Packing,images/asbestospacking.jpg
+Tooling,Abrasive,1,Sharpening Stone,images/sharpeningstone.png
+Tooling,Air Compressor,2,1/4hp,images/14HPaircompressor.jpg
+Tooling,Aluminum,3,Bar,images/aluminumbar.jpg
+Tooling,Aluminum,1,Flat Bar,images/flatbaraluminum.jpg
+Tooling,Aluminum,2,Sheet,images/sheetaluminum.jpg
+Tooling,Aluminum,3,Round Bar,images/roundbaraluminum.jpg
 Tooling,Bearing,3,Ball Bearing,images/ballbearing.jpg
 Tooling,Bearing,1,Pillow Block Bearing,images/pillowblockbearing.jpg
-Tooling,Bearing,2,Roller Bearing,images/rollerbearing.jpg
-Tooling,Belt,3,V-Belt,images/vbelt.jpg
+Tooling,Bearing,2,Roller Bearing,images/rollerbearings.jpg
+Tooling,Belt,3,V-Belt,images/vbeltbearings.jpg
 Tooling,Belt,1,Conveyor Belt,images/conveyorbelt.jpg
 Tooling,Belt,2,Adjustable Link Belt,images/adjustablelinkbelt.jpg
 Tooling,Brush,3,Paint Brush,images/paintbrush.jpg
 Tooling,Brush,1,Mop Handle,images/mophandle.jpg
 Tooling,Brush,2,Steel Brush,images/steelbrush.jpg
-Tooling,Brush,3,Floor Broom,images/floorbroom.jpg
+Tooling,Brush,3,Floor Broom,images/floorbrush.jpg
 Tooling,Canvas,1,Truck Canvas,images/truckcanvas.jpg
-Tooling,Canvas,2,Cover,images/cover.jpg
+Tooling,Canvas,2,Cover,images/covercanvas.jpg
 Tooling,Construction,3,Concrete Mixer,images/concretemixer.jpg
 Tooling,Construction,1,Compact Vibrator,images/compactvibrator.jpg
 Tooling,Construction,2,Shovel,images/shovel.jpg
@@ -34,10 +29,10 @@ Tooling,Construction,2,Tanguili,images/tanguili.jpg
 Tooling,Electrical,3,Wire,images/wire.jpg
 Tooling,Electrical,1,Panel Board,images/panelboard.jpg
 Tooling,Electrical,2,Ballast,images/ballast.jpg
-Tooling,Electrical,3,Flourescent Tube,images/flourescenttube.jpg
+Tooling,Electrical,3,Flourescent Tube,images/fluorescenttube.jpg
 Tooling,Electrical,1,Safety Switch,images/safetyswitch.jpg
 Tooling,Electrical,2,Conduct Pipe,images/conductpipe.jpg
-Tooling,Engine,3,Gasoline and Diesel 2Hp and up,images/gasolineanddieselhpandup.jpg
+Tooling,Engine,3,Gasoline and Diesel 2Hp and up,images/gasolineanddieselengine.jpg
 Tooling,Filter,1,Fuel Filter,images/fuelfilter.jpg
 Tooling,Filter,2,Air Filter,images/airfilter.jpg
 Tooling,Filter,3,Gasoline Filter,images/gasolinefilter.jpg
@@ -45,18 +40,18 @@ Tooling,Fire,1,Fire Hose,images/firehose.jpg
 Tooling,Fire,2,Fire Hose Cabinet,images/firehosecabinet.jpg
 Tooling,Fire,3,Automatic Emergency Light,images/automaticemergencylight.jpg
 Tooling,Fire,1,Extinguisher,images/extinguisher.jpg
-Tooling,Generator,2,Diesel and Gasoline 1KVA and up,images/dieselandgasolinekvaandup.jpg
+Tooling,Generator,2,Diesel and Gasoline 1KVA and up,images/dieselgenerator.jpg
 Tooling,Hardware and Tools,3,Screwdriver,images/screwdriver.jpg
-Tooling,Hardware and Tools,1,Drill Bit,images/drillbit.jpg
+Tooling,Hardware and Tools,1,Drill Bit,images/drill bit.jpg
 Tooling,Hardware and Tools,2,Circular Saw,images/circularsaw.jpg
-Tooling,Hardware and Tools,3,Round Die Screw,images/rounddiescrew.jpg
-Tooling,Hardware and Tools,1,B.I. Pipe,images/bipipe.jpg
+Tooling,Hardware and Tools,3,Round Die Screw,images/roundiescrew.jpg
+Tooling,Hardware and Tools,1,B.I. Pipe,images/b.i.pipe.jpg
 Tooling,Hardware and Tools,2,S/S Pipe,images/sspipe.jpg
-Tooling,Hardware and Tools,3,C Channel,images/cchannel.jpg
+Tooling,Hardware and Tools,3,C Channel,images/c channel.jpg
 Tooling,Hardware and Tools,1,Deformed Bar,images/deformedbar.jpg
 Tooling,Hardware and Tools,2,Expanded Metal,images/expandedmetal.jpg
-Tooling,Hardware and Tools,3,MS Plate,images/msplate.jpg
-Tooling,Hardware and Tools,1,G.I. Sheet,images/gisheet.jpg
+Tooling,Hardware and Tools,3,MS Plate,images/MS Plate.jpg
+Tooling,Hardware and Tools,1,G.I. Sheet,images/G.i.sheet.jpg
 Tooling,Hose,2,Hydraulic Hose,images/hydraulichose.jpg
 Tooling,Hose,3,Air Hose,images/airhose.jpg
 Tooling,Hose,1,Oil Hose,images/oilhose.jpg
@@ -66,7 +61,7 @@ Tooling,Insulator,1,Insulation Board,images/insulationboard.jpg
 Tooling,Insulator,2,Insulation Blanket,images/insulationblanket.jpg
 Tooling,Insulator,3,Thermal Insulation,images/thermalinsulation.jpg
 Tooling,Machinery,1,Welding Machine,images/weldingmachine.jpg
-Tooling,Machinery,2,Chain Hoist,images/chainhoist.jpg
+Tooling,Machinery,2,Chain Hoist,images/chain hoist.jpg
 Tooling,Machinery,3,Universal Circular Saw,images/universalcircularsaw.jpg
 Tooling,Machinery,1,Hand Saw,images/handsaw.jpg
 Tooling,Machinery,2,Electric Drill,images/electricdrill.jpg
@@ -84,42 +79,42 @@ Tooling,Pole Line,1,Wood Molding,images/woodmolding.jpg
 Tooling,Pole Line,2,Pole Clamp,images/poleclamp.jpg
 Tooling,Pole Line,3,Thimble Eye Bolt,images/thimbleeyebolt.jpg
 Tooling,Pole Line,1,Step Ladder,images/stepladder.jpg
-Tooling,Pole Line,2,Extension Ladder,images/extensionladder.jpg
+Tooling,Pole Line,2,Extension Ladder,images/extensionladder.png
 Tooling,Pump,3,Submersible Centrifugal Pump,images/submersiblecentrifugalpump.jpg
 Tooling,Pump,1,Jet Pump,images/jetpump.jpg
 Tooling,Rope,2,Wire Rope,images/wirerope.jpg
 Tooling,Rope,3,Nylon Rope,images/nylonrope.jpg
 Tooling,Rope,1,Abaca Rope,images/abacarope.jpg
 Tooling,Safety,2,Safety Helmet,images/safetyhelmet.jpg
-Tooling,Safety,3,Gloves,images/gloves.jpg
-Tooling,Safety,1,Goggles,images/goggles.jpg
-Tooling,Safety,2,Respiratoir,images/respiratoir.jpg
-Tooling,Safety,3,Safety Belt and Shoes,images/safetybeltandshoes.jpg
-Tooling,Safety,1,Aprons,images/aprons.jpg
+Tooling,Safety,3,Gloves,images/safetygloves.jpg
+Tooling,Safety,1,Goggles,images/safetygoggles.jpg
+Tooling,Safety,2,Respiratoir,images/safetyrespiratoir.jpg
+Tooling,Safety,3,Safety Belt and Shoes,images/safetybelt.jpg
+Tooling,Safety,1,Aprons,images/safetyaprons.jpg
 Tooling,Stretch Film,2,Hand Roll,images/handroll.jpg
 Tooling,Stretch Film,3,Machine Roll,images/machineroll.jpg
 Tooling,Safety,1,Dust Mask,images/dustmask.jpg
 Tooling,Valve,2,Gate Valves,images/gatevalves.jpg
 Tooling,Valve,3,Globe Valves,images/globevalves.jpg
-Tooling,Valve,1,Ball Valves,images/ballvalves.jpg
-Tooling,Valve,2,Check Valves,images/checkvalves.jpg
-Tooling,Valve,3,Butterfy Valves,images/butterfyvalves.jpg
-Tooling,Valve,1,Stainless Materials,images/stainlessmaterials.jpg
-Tooling,Valve,2,Cast Iron,images/castiron.jpg
-Tooling,Valve,3,Forged Steel,images/forgedsteel.jpg
-Tooling,Valve,1,Bronze,images/bronze.jpg
+Tooling,Valve,1,Ball Valves,images/ballvalves.png
+Tooling,Valve,2,Check Valves,images/checkvalve.jpg
+Tooling,Valve,3,Butterfy Valves,images/butterflyvalves.jpg
+Tooling,Valve,1,Stainless Materials,images/stainlessvalve.jpg
+Tooling,Valve,2,Cast Iron,images/castironvalve.jpg
+Tooling,Valve,3,Forged Steel,images/forgedsteelvalve.jpg
+Tooling,Valve,1,Bronze Valve,images/bronzevalve.jpg
 Tooling,Wire,2,S/S Wire Rope,images/sswirerope.jpg
-Cleanroom and Packaging,Cleanroom Materials,1,Non woven disposable beard mask,images/nonwovendisposablebeardmask.jpg
-Cleanroom and Packaging,Cleanroom Materials,2,Non woven disposable 2 or 3 ply face mask,images/nonwovendisposableorplyfacemask.jpg
-Cleanroom and Packaging,Cleanroom Materials,3,Rewashable Face mask,images/rewashablefacemask.jpg
-Cleanroom and Packaging,Cleanroom Materials,1,Disposable paper Nurse mask,images/disposablepapernursemask.jpg
+Cleanroom and Packaging,Cleanroom Materials,1,Non woven disposable beard mask,images/nonwovenbeardmask.jpg
+Cleanroom and Packaging,Cleanroom Materials,2,Non woven disposable 2 or 3 ply face mask,images/nonwevenfacemask.jpg
+Cleanroom and Packaging,Cleanroom Materials,3,Rewashable Face mask,images/washablefacemask.jpg
+Cleanroom and Packaging,Cleanroom Materials,1,Disposable paper Nurse mask,images/disposablenursemask.jpg
 Cleanroom and Packaging,Cleanroom Materials,2,Non woven disposable bouffant cap Head Cover,images/nonwovendisposablebouffantcapheadcover.jpg
-Cleanroom and Packaging,Cleanroom Materials,3,PVC shoe cover ,images/pvcshoecover.jpg
+Cleanroom and Packaging,Cleanroom Materials,3,PVC shoe cover,images/pvcshoecover.jpg
 Cleanroom and Packaging,Cleanroom Materials,1,CPE shoe cover,images/cpeshoecover.jpg
 Cleanroom and Packaging,Cleanroom Materials,2,Non woven shoe cover,images/nonwovenshoecover.jpg
-Cleanroom and Packaging,Desiccants,3,Silica Gel - Cloth Type Packaging,images/silicagelclothtypepackaging.jpg
-Cleanroom and Packaging,Desiccants,1,Silica Gel - Paper Type Packaging,images/silicagelpapertypepackaging.jpg
-Cleanroom and Packaging,Desiccants,2,Silica Gel - Plastic Type Packaging,images/silicagelplastictypepackaging.jpg
+Cleanroom and Packaging,Desiccants,3,Silica Gel - Cloth Type Packaging,images/silicalgelclothpackaging.jpg
+Cleanroom and Packaging,Desiccants,1,Silica Gel - Paper Type Packaging,images/silicagelpaperpackaging.jpg
+Cleanroom and Packaging,Desiccants,2,Silica Gel - Plastic Type Packaging,images/silicagelplastic.jpg
 Cleanroom and Packaging,Desiccants,3,Clay - Cloth Type Packaging,images/clayclothtypepackaging.jpg
 Cleanroom and Packaging,Desiccants,1,Clay - Paper Type Packaging,images/claypapertypepackaging.jpg
 Cleanroom and Packaging,Desiccants,2,Clay - Plastic Type Packaging,images/clayplastictypepackaging.jpg
@@ -130,19 +125,19 @@ Cleanroom and Packaging,ESD Packaging Packs,3,Anti-Static Pink Bag,images/antist
 Cleanroom and Packaging,ESD Packaging Packs,1,Anti Static Shielding bag,images/antistaticshieldingbag.jpg
 Cleanroom and Packaging,ESD Packaging Packs,2,Anti Static Ziplock PE bag,images/antistaticziplockpebag.jpg
 Cleanroom and Packaging,ESD Packaging Packs,3,Various Thickness of PE Foam Sheet /Roll,images/variousthicknessofpefoamsheetroll.jpg
-Cleanroom and Packaging,ESD Packaging Packs,1,All types of Bubble Sheet/Roll,images/alltypesofbubblesheetroll.jpg
-Cleanroom and Packaging,ESD Packaging Packs,2,Anti-Static Pink Bubble Bag,images/antistaticpinkbubblebag.jpg
+Cleanroom and Packaging,ESD Packaging Packs,1,All types of Bubble Sheet/Roll,images/bubblesheets.jpg
+Cleanroom and Packaging,ESD Packaging Packs,2,Anti-Static Pink Bubble Bag,images/antistaticpinkbag.jpg
 Cleanroom and Packaging,ESD Packaging Packs,3,Anti-Static PE Foam Bag,images/antistaticpefoambag.jpg
 Cleanroom and Packaging,ESD Protective Products,1,Anti-Static-Static White PP strapping band,images/antistaticstaticwhiteppstrappingband.jpg
 Cleanroom and Packaging,ESD Protective Products,2,Conductive Black PP strapping band,images/conductiveblackppstrappingband.jpg
-Cleanroom and Packaging,ESD Protective Products,3,Conductive Grid (1mm) tape,images/conductivegridmmtape.jpg
-Cleanroom and Packaging,ESD Protective Products,1,Conductive Grid (0.5mm) tape,images/conductivegridmmtape.jpg
+Cleanroom and Packaging,ESD Protective Products,3,Conductive Grid (1mm) tape,images/conductivegrid1mm.jpg
+Cleanroom and Packaging,ESD Protective Products,1,Conductive Grid (0.5mm) tape,images/conductivegrid0.5mm.jpg
 Cleanroom and Packaging,ESD Protective Products,2,Conductive Hell Strap,images/conductivehellstrap.jpg
 Cleanroom and Packaging,ESD Protective Products,3,Adjustable (with buckle) wrist strap,images/adjustablewithbucklewriststrap.jpg
 Cleanroom and Packaging,ESD Protective Products,1,Cordless wrist strap,images/cordlesswriststrap.jpg
 Cleanroom and Packaging,ESD Protective Products,2,Cleanroom metal wrist strap,images/cleanroommetalwriststrap.jpg
 Cleanroom and Packaging,ESD Protective Products,3,Velcro band wrist strap,images/velcrobandwriststrap.jpg
-Cleanroom and Packaging,ESD Protective Products,1,Fixed elastic wrist strap (without buckle),images/fixedelasticwriststrapwithoutbuckle.jpg
+Cleanroom and Packaging,ESD Protective Products,1,Fixed elastic wrist strap (without buckle),images/fixedelasticwriststrap.jpg
 Cleanroom and Packaging,ESD Protective Products,2,ESD PE document holder,images/esdpedocumentholder.jpg
 Cleanroom and Packaging,ESD Protective Products,3,ESD name badge holder & clip (horizontal & vertical type),images/esdnamebadgeholder&cliphorizontal&verticaltype.jpg
 Cleanroom and Packaging,ESD Protective Products,1,ESD Table mat,images/esdtablemat.jpg
@@ -155,30 +150,30 @@ Cleanroom and Packaging,Gloves,1,Knitted glove,images/knittedglove.jpg
 Cleanroom and Packaging,Gloves,2,Hygienic PE glove,images/hygienicpeglove.jpg
 Cleanroom and Packaging,Gloves,3,Cleanroom PVC Glove,images/cleanroompvcglove.jpg
 Cleanroom and Packaging,Gloves,1,Cleanroom Latex glove,images/cleanroomlatexglove.jpg
-Cleanroom and Packaging,Gloves,2,Cleanrom Nitrile glove,images/cleanromnitrileglove.jpg
+Cleanroom and Packaging,Gloves,2,Cleanroom Nitrile glove,images/cleanroomnitrileglove.jpg
 Cleanroom and Packaging,Laboratory Garments,3,Dupont Tyvek,images/duponttyvek.jpg
 Cleanroom and Packaging,Laboratory Garments,1,Polyester Cloth,images/polyestercloth.jpg
-Cleanroom and Packaging,Laboratory Garments,2,Polypropylene Material,images/polypropylenematerial.jpg
-Cleanroom and Packaging,Packaging Materials,3,LDPE Machine Roll,images/ldpemachineroll.jpg
-Cleanroom and Packaging,Packaging Materials,1,Stretch Film,images/stretchfilm.jpg
-Cleanroom and Packaging,Packaging Materials,2,Recycle paper Slip Sheet,images/recyclepaperslipsheet.jpg
-Cleanroom and Packaging,Packaging Materials,3,Edge Protector w/ Aluminum Foil,images/edgeprotectorwaluminumfoil.jpg
-Cleanroom and Packaging,Packaging Materials,1,Pallet Rubber Band,images/palletrubberband.jpg
-Cleanroom and Packaging,Packaging Materials,2,Recycle Paper Edge Protector,images/recyclepaperedgeprotector.jpg
-Cleanroom and Packaging,Packaging Materials,3,PE/PVC Shrink Film,images/pepvcshrinkfilm.jpg
-Cleanroom and Packaging,Packaging Materials,1,PVC Rigid Film,images/pvcrigidfilm.jpg
-Cleanroom and Packaging,Packaging Materials,2,Black Conductive High Impact Polystyrene (HIPS),images/blackconductivehighimpactpolystyrenehips.jpg
-Cleanroom and Packaging,Packaging Materials,3,Anti-Stativ PVC Rigid Film ,images/antistativpvcrigidfilm.jpg
-Cleanroom and Packaging,Packaging Materials,1,White Ordinary High Impact Polystyrene (HIPS),images/whiteordinaryhighimpactpolystyrenehips.jpg
-Cleanroom and Packaging,Packaging Materials,2,Anti-Static Pink Convulated PU Foam,images/antistaticpinkconvulatedpufoam.jpg
-Cleanroom and Packaging,Packaging Materials,3,Clear Anti-static Tape with printed ESD symbols,images/clearantistatictapewithprintedesdsymbols.jpg
-Cleanroom and Packaging,Packaging Materials,1,Anti-Static VelcroStrap,images/antistaticvelcrostrap.jpg
-Cleanroom and Packaging,Packaging Materials,2,Clear anti-Static tape ,images/clearantistatictape.jpg
-Cleanroom and Packaging,Packaging Materials,3,Anti-Static Shielding Tape,images/antistaticshieldingtape.jpg
-Cleanroom and Packaging,Packaging Materials,1,Plastic Corrugated Black Conductive Box,images/plasticcorrugatedblackconductivebox.jpg
-Cleanroom and Packaging,Packaging Materials,2,Plastic Corrugated Black Conductive Cover Box,images/plasticcorrugatedblackconductivecoverbox.jpg
-Cleanroom and Packaging,Packaging Materials,3,Plastic Corrugated Stackable Box,images/plasticcorrugatedstackablebox.jpg
-Cleanroom and Packaging,Packaging Materials,1,Plastic Corrugated Regular Box,images/plasticcorrugatedregularbox.jpg
+Cleanroom and Packaging,Laboratory Garments,2,Polypropylene Material,images/polypropylene-material.jpg
+Cleanroom and Packaging,Packaging Materials,3,LDPE Machine Roll,images/LDPE-Machine-Roll.jpg
+Cleanroom and Packaging,Packaging Materials,1,Stretch Film,images/stretch-film.jpg
+Cleanroom and Packaging,Packaging Materials,2,Recycle paper Slip Sheet,images/recycle-paper-slip-sheet.jpg
+Cleanroom and Packaging,Packaging Materials,3,Edge Protector w/ Aluminum Foil,images/edge-protector.jpg
+Cleanroom and Packaging,Packaging Materials,1,Pallet Rubber Band,images/pallet-rubber-band.jpg
+Cleanroom and Packaging,Packaging Materials,2,Recycle Paper Edge Protector,images/recycle-paper-edge-protector.jpg
+Cleanroom and Packaging,Packaging Materials,3,PE/PVC Shrink Film,images/pe-pvc-shrink-film.jpg
+Cleanroom and Packaging,Packaging Materials,1,PVC Rigid Film,images/pvc-rigid-film.jpg
+Cleanroom and Packaging,Packaging Materials,2,Black Conductive High Impact Polystyrene (HIPS),images/black-conductive-high-impact-polystyrene.jpg
+Cleanroom and Packaging,Packaging Materials,3,Anti-Static PVC Rigid Film,images/anti-static-pvc-rigid-film.jpg
+Cleanroom and Packaging,Packaging Materials,1,White Ordinary High Impact Polystyrene (HIPS),images/white-ordinary-high-impact-polystyrene.png
+Cleanroom and Packaging,Packaging Materials,2,Anti-Static Pink Convulated PU Foam,images/anti-static-pink-convulated-pu-foam.jpg
+Cleanroom and Packaging,Packaging Materials,3,Clear Anti-static Tape with printed ESD symbols,images/clear-anti-static-tape-with-printed-esd-symbols.jpg
+Cleanroom and Packaging,Packaging Materials,1,Anti-Static VelcroStrap,images/anti-static-velcro-strap.jpg
+Cleanroom and Packaging,Packaging Materials,2,Clear anti-Static tape,images/clear-anti-static-tape.jpg
+Cleanroom and Packaging,Packaging Materials,3,Anti-Static Shielding Tape,images/anti-static-shielding-tape.jpg
+Cleanroom and Packaging,Packaging Materials,1,Plastic Corrugated Black Conductive Box,images/plastic-corrugated-black-conductive-box.jpg
+Cleanroom and Packaging,Packaging Materials,2,Plastic Corrugated Black Conductive Cover Box,images/plastic-corrugated-black-conductive-cover-box.jpg
+Cleanroom and Packaging,Packaging Materials,3,Plastic Corrugated Stackable Box,images/plastic-corrugated-stackable-box.jpg
+Cleanroom and Packaging,Packaging Materials,1,Plastic Corrugated Regular Box,images/plastic-corrugated-regular-box.jpg
 Cleanroom and Packaging,Packaging Materials,2,Plastic Corrugated Partition Box,images/plasticcorrugatedpartitionbox.jpg
 Cleanroom and Packaging,Packaging Materials,3,Plastic Corrugated Stackable Box with Cushion,images/plasticcorrugatedstackableboxwithcushion.jpg
 Cleanroom and Packaging,Rubber Band,1,Black Anti-Static Rubber Band,images/blackantistaticrubberband.jpg
