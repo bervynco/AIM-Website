@@ -52,7 +52,7 @@
    </section>
     <!--/.HEADING END-->
     <div class="row">
-        <!-- <div class="col-sm-5 col-lg-5"> -->
+        <div class="col-sm-6 col-lg-6">
             <div class="panel" align="center">
                 <div class="panel-heading">
                     <h3><i class="fa fa-map-pin"></i>Our office</h3>
@@ -68,9 +68,11 @@
                     </address>
                 </div>
             </div>
-        <!-- </div> -->
+        </div>
+        <div class="col-sm-6 col-lg-6" id="map" ng-controller="MapController">
+            <div id="map_canvas"></div>
+        </div>
     </div>
-   
     <section id="footer-sec" >
         <div class="container">
             <div class="row pad-bottom">
@@ -99,6 +101,8 @@
     </section>         
     <!--/.FOOTER END-->
     <!-- JAVASCRIPT FILES PLACED AT THE BOTTOM TO REDUCE THE LOADING TIME  -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0-beta.1/angular.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.14.3/ui-bootstrap.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3&sensor=true"></script>
     <!-- CORE JQUERY  -->
     <script src="assets/plugins/jquery-1.10.2.js"></script>
@@ -106,5 +110,6 @@
     <script src="assets/plugins/bootstrap.js"></script>
   <!-- CUSTOM SCRIPTS  -->
     <script src="assets/js/custom.js"></script>
+    <script src="controllers.js"></script>
 </body>
 </html>
