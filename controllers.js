@@ -2,7 +2,7 @@ var webApp = angular.module('webApp',
   ['ui.bootstrap']);
 
 webApp.factory('ProductFactory',function($http){
-    var productData = $http.get('data/products.json').then(function(response) {
+    var productData = $http.get('Data/products.json').then(function(response) {
         return response.data;
     });
 

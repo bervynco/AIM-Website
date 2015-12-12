@@ -21,7 +21,7 @@ Tooling,Brush,Floor Broom,images/floorbrush.jpg
 Tooling,Canvas,Truck Canvas,images/truckcanvas.jpg
 Tooling,Canvas,Cover,images/covercanvas.jpg
 Tooling,Construction,Concrete Mixer,images/concretemixer.jpg
-Tooling,Construction,Compact Vibrator,images/compactvibrator.jpg
+Tooling,Construction,Compact Vibrator,images/compactvibrator.JPG
 Tooling,Construction,Shovel,images/shovel.jpg
 Tooling,Construction,Plywood,images/plywood.jpg
 Tooling,Construction,Paint,images/paint.jpg
@@ -52,7 +52,7 @@ Tooling,Hardware and Tools,Deformed Bar,images/deformedbar.jpg
 Tooling,Hardware and Tools,Expanded Metal,images/expandedmetal.jpg
 Tooling,Hardware and Tools,MS Plate,images/MS Plate.jpg
 Tooling,Hardware and Tools,G.I. Roofing,images/G.i.roofing.jpg
-Tooling,Hose,Hydraulic Hose,images/hydraulichose.jpg
+Tooling,Hose,Hydraulic Hose,images/hydraulichose.JPG
 Tooling,Hose,Air Hose,images/airhose.jpg
 Tooling,Hose,Oil Hose,images/oilhose.jpg
 Tooling,Hose,Garden Hose,images/gardenhose.jpg
@@ -79,7 +79,7 @@ Tooling,Pole Line,Wood Molding,images/woodmolding.jpg
 Tooling,Pole Line,Pole Clamp,images/poleclamp.jpg
 Tooling,Pole Line,Thimble Eye Bolt,images/thimbleeyebolt.jpg
 Tooling,Pole Line,Step Ladder,images/stepladder.jpg
-Tooling,Pole Line,Extension Ladder,images/extensionladder.png
+Tooling,Pole Line,Extension Ladder,images/extensionladder.PNG
 Tooling,Pump,Submersible Centrifugal Pump,images/submersiblecentrifugalpump.jpg
 Tooling,Pump,Jet Pump,images/jetpump.jpg
 Tooling,Rope,Wire Rope,images/wirerope.jpg
@@ -124,18 +124,18 @@ Cleanroom and Packaging,ESD Packaging Packs,Aluminum Moisture Barrier Bag,images
 Cleanroom and Packaging,ESD Packaging Packs,Anti-Static Pink Bag,images/antistaticpinkbag.jpg
 Cleanroom and Packaging,ESD Packaging Packs,Anti Static Shielding bag,images/antistaticshieldingbag.jpg
 Cleanroom and Packaging,ESD Packaging Packs,Anti Static Ziplock PE bag,images/antistaticziplockpebag.jpg
-Cleanroom and Packaging,ESD Packaging Packs,Various Thickness of PE Foam Sheet /Roll,images/variousthicknessofpefoamsheetroll.jpg
+Cleanroom and Packaging,ESD Packaging Packs,Various Thickness of PE Foam Sheet /Roll,images/variousthicknessofpefoamsheetroll.JPG
 Cleanroom and Packaging,ESD Packaging Packs,All types of Bubble Sheet/Roll,images/bubblesheets.jpg
 Cleanroom and Packaging,ESD Packaging Packs,Anti-Static Pink Bubble Bag,images/anti-static-pink-bubble-bag.jpg
 Cleanroom and Packaging,ESD Packaging Packs,Anti-Static PE Foam Bag,images/anti-static-pe-foam-bag.jpg
 Cleanroom and Packaging,ESD Protective Products,Anti-Static White PP strapping band,images/antistaticwhiteppstrappingband.jpg
 Cleanroom and Packaging,ESD Protective Products,Conductive Black PP strapping band,images/conductiveblackppstrappingband.jpg
-Cleanroom and Packaging,ESD Protective Products,Conductive Grid (1mm) tape,images/conductivegrid1mm.jpg
-Cleanroom and Packaging,ESD Protective Products,Conductive Grid (0.5mm) tape,images/conductivegrid0.5mm.jpg
+Cleanroom and Packaging,ESD Protective Products,Conductive Grid (1mm) tape,images/conductivegrid1mm.JPG
+Cleanroom and Packaging,ESD Protective Products,Conductive Grid (0.5mm) tape,images/conductivegrid0.5mm.JPG
 Cleanroom and Packaging,ESD Protective Products,Conductive Hell Strap,images/conductivehellstrap.jpg
 Cleanroom and Packaging,ESD Protective Products,Adjustable (with buckle) wrist strap,images/adjustable-wrist-strap.jpg
 Cleanroom and Packaging,ESD Protective Products,Cordless wrist strap,images/cordlesswriststrap.jpg
-Cleanroom and Packaging,ESD Protective Products,Cleanroom metal wrist strap,images/cleanroommetalwriststrap.jpg
+Cleanroom and Packaging,ESD Protective Products,Cleanroom metal wrist strap,images/cleanroommetalwriststrap.JPG
 Cleanroom and Packaging,ESD Protective Products,Velcro band wrist strap,images/velcrobandwriststrap.jpg
 Cleanroom and Packaging,ESD Protective Products,Fixed elastic wrist strap (without buckle),images/fixedelasticwriststrap.jpg
 Cleanroom and Packaging,ESD Protective Products,ESD PE document holder,images/esdpedocumentholder.jpg
@@ -167,7 +167,7 @@ Cleanroom and Packaging,Packaging Materials,Anti-Static PVC Rigid Film,images/an
 Cleanroom and Packaging,Packaging Materials,White Ordinary High Impact Polystyrene (HIPS),images/white-ordinary-high-impact-polystyrene.png
 Cleanroom and Packaging,Packaging Materials,Anti-Static Pink Convulated PU Foam,images/anti-static-pink-convulated-pu-foam.jpg
 Cleanroom and Packaging,Packaging Materials,Clear Anti-static Tape with printed ESD symbols,images/clear-anti-static-tape-with-printed-esd-symbols.jpg
-Cleanroom and Packaging,Packaging Materials,Anti-Static VelcroStrap,images/anti-static-velcro-strap.jpg
+Cleanroom and Packaging,Packaging Materials,Anti-Static VelcroStrap,images/anti-static-velcro-strap.JPG
 Cleanroom and Packaging,Packaging Materials,Clear anti-Static tape,images/clear-anti-static-tape.jpg
 Cleanroom and Packaging,Packaging Materials,Anti-Static Shielding Tape,images/anti-static-shielding-tape.jpg
 Cleanroom and Packaging,Packaging Materials,Plastic Corrugated Black Conductive Box,images/plastic-corrugated-black-conductive-box.jpg
