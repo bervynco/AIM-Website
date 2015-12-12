@@ -2,1393 +2,1194 @@
   {
     "groupName":"Tooling",
     "groupItem":"Abrasive",
-    "groupNumber":1,
     "productName":"Sandpaper",
     "imageSrc":"images/sandpaper.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Abrasive",
-    "groupNumber":2,
     "productName":"Finishing Stone",
     "imageSrc":"images/finishingstone.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Abrasive",
-    "groupNumber":3,
     "productName":"Oil Stone",
     "imageSrc":"images/oilstone.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Abrasive",
-    "groupNumber":1,
     "productName":"Sharpening Stone",
     "imageSrc":"images/sharpeningstone.png"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Air Compressor",
-    "groupNumber":2,
     "productName":"1/4hp",
     "imageSrc":"images/14HPaircompressor.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Aluminum",
-    "groupNumber":3,
     "productName":"Bar",
     "imageSrc":"images/aluminumbar.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Aluminum",
-    "groupNumber":1,
     "productName":"Flat Bar",
     "imageSrc":"images/flatbaraluminum.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Aluminum",
-    "groupNumber":2,
     "productName":"Sheet",
     "imageSrc":"images/sheetaluminum.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Aluminum",
-    "groupNumber":3,
     "productName":"Round Bar",
     "imageSrc":"images/roundbaraluminum.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Bearing",
-    "groupNumber":3,
     "productName":"Ball Bearing",
     "imageSrc":"images/ballbearing.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Bearing",
-    "groupNumber":1,
     "productName":"Pillow Block Bearing",
     "imageSrc":"images/pillowblockbearing.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Bearing",
-    "groupNumber":2,
     "productName":"Roller Bearing",
     "imageSrc":"images/rollerbearings.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Belt",
-    "groupNumber":3,
     "productName":"V-Belt",
     "imageSrc":"images/vbeltbearings.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Belt",
-    "groupNumber":1,
     "productName":"Conveyor Belt",
     "imageSrc":"images/conveyorbelt.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Belt",
-    "groupNumber":2,
     "productName":"Adjustable Link Belt",
     "imageSrc":"images/adjustablelinkbelt.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Brush",
-    "groupNumber":3,
     "productName":"Paint Brush",
     "imageSrc":"images/paintbrush.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Brush",
-    "groupNumber":1,
     "productName":"Mop Handle",
     "imageSrc":"images/mophandle.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Brush",
-    "groupNumber":2,
     "productName":"Steel Brush",
     "imageSrc":"images/steelbrush.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Brush",
-    "groupNumber":3,
     "productName":"Floor Broom",
     "imageSrc":"images/floorbrush.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Canvas",
-    "groupNumber":1,
     "productName":"Truck Canvas",
     "imageSrc":"images/truckcanvas.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Canvas",
-    "groupNumber":2,
     "productName":"Cover",
     "imageSrc":"images/covercanvas.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Construction",
-    "groupNumber":3,
     "productName":"Concrete Mixer",
     "imageSrc":"images/concretemixer.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Construction",
-    "groupNumber":1,
     "productName":"Compact Vibrator",
     "imageSrc":"images/compactvibrator.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Construction",
-    "groupNumber":2,
     "productName":"Shovel",
     "imageSrc":"images/shovel.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Construction",
-    "groupNumber":3,
     "productName":"Plywood",
     "imageSrc":"images/plywood.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Construction",
-    "groupNumber":1,
     "productName":"Paint",
     "imageSrc":"images/paint.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Construction",
-    "groupNumber":2,
     "productName":"Tanguili",
     "imageSrc":"images/tanguili.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Electrical",
-    "groupNumber":3,
     "productName":"Wire",
     "imageSrc":"images/wire.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Electrical",
-    "groupNumber":1,
     "productName":"Panel Board",
     "imageSrc":"images/panelboard.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Electrical",
-    "groupNumber":2,
     "productName":"Ballast",
     "imageSrc":"images/ballast.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Electrical",
-    "groupNumber":3,
     "productName":"Flourescent Tube",
     "imageSrc":"images/fluorescenttube.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Electrical",
-    "groupNumber":1,
     "productName":"Safety Switch",
     "imageSrc":"images/safetyswitch.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Electrical",
-    "groupNumber":2,
     "productName":"Conduct Pipe",
     "imageSrc":"images/conductpipe.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Engine",
-    "groupNumber":3,
     "productName":"Gasoline and Diesel 2Hp and up",
     "imageSrc":"images/gasolineanddieselengine.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Filter",
-    "groupNumber":1,
     "productName":"Fuel Filter",
     "imageSrc":"images/fuelfilter.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Filter",
-    "groupNumber":2,
     "productName":"Air Filter",
     "imageSrc":"images/airfilter.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Filter",
-    "groupNumber":3,
     "productName":"Gasoline Filter",
     "imageSrc":"images/gasolinefilter.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Fire",
-    "groupNumber":1,
     "productName":"Fire Hose",
     "imageSrc":"images/firehose.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Fire",
-    "groupNumber":2,
     "productName":"Fire Hose Cabinet",
     "imageSrc":"images/firehosecabinet.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Fire",
-    "groupNumber":3,
     "productName":"Automatic Emergency Light",
     "imageSrc":"images/automaticemergencylight.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Fire",
-    "groupNumber":1,
     "productName":"Extinguisher",
     "imageSrc":"images/extinguisher.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Generator",
-    "groupNumber":2,
     "productName":"Diesel and Gasoline 1KVA and up",
     "imageSrc":"images/dieselgenerator.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":3,
     "productName":"Screwdriver",
     "imageSrc":"images/screwdriver.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":1,
     "productName":"Drill Bit",
     "imageSrc":"images/drill bit.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":2,
     "productName":"Circular Saw",
     "imageSrc":"images/circularsaw.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":3,
     "productName":"Round Die Screw",
     "imageSrc":"images/roundiescrew.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":1,
     "productName":"B.I. Pipe",
     "imageSrc":"images/b.i.pipe.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":2,
     "productName":"S/S Pipe",
-    "imageSrc":"images/sspipe.jpg"
+    "imageSrc":"images/stainlesssteelpipe.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":3,
     "productName":"C Channel",
     "imageSrc":"images/c channel.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":1,
     "productName":"Deformed Bar",
     "imageSrc":"images/deformedbar.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":2,
     "productName":"Expanded Metal",
     "imageSrc":"images/expandedmetal.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":3,
     "productName":"MS Plate",
     "imageSrc":"images/MS Plate.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hardware and Tools",
-    "groupNumber":1,
     "productName":"G.I. Roofing",
     "imageSrc":"images/G.i.roofing.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hose",
-    "groupNumber":2,
     "productName":"Hydraulic Hose",
     "imageSrc":"images/hydraulichose.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hose",
-    "groupNumber":3,
     "productName":"Air Hose",
     "imageSrc":"images/airhose.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hose",
-    "groupNumber":1,
     "productName":"Oil Hose",
     "imageSrc":"images/oilhose.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hose",
-    "groupNumber":2,
     "productName":"Garden Hose",
     "imageSrc":"images/gardenhose.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Hose",
-    "groupNumber":3,
     "productName":"Hose Fitting",
     "imageSrc":"images/hosefitting.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Insulator",
-    "groupNumber":1,
     "productName":"Insulation Board",
     "imageSrc":"images/insulationboard.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Insulator",
-    "groupNumber":2,
     "productName":"Insulation Blanket",
     "imageSrc":"images/insulationblanket.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Insulator",
-    "groupNumber":3,
     "productName":"Thermal Insulation",
     "imageSrc":"images/thermalinsulation.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Machinery",
-    "groupNumber":1,
     "productName":"Welding Machine",
     "imageSrc":"images/weldingmachine.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Machinery",
-    "groupNumber":2,
     "productName":"Chain Hoist",
     "imageSrc":"images/chain hoist.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Machinery",
-    "groupNumber":3,
     "productName":"Universal Circular Saw",
     "imageSrc":"images/universalcircularsaw.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Machinery",
-    "groupNumber":1,
     "productName":"Hand Saw",
     "imageSrc":"images/handsaw.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Machinery",
-    "groupNumber":2,
     "productName":"Electric Drill",
     "imageSrc":"images/electricdrill.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Machinery",
-    "groupNumber":3,
     "productName":"Angle Grinder",
     "imageSrc":"images/anglegrinder.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Packaging",
-    "groupNumber":1,
     "productName":"Masking Tape",
     "imageSrc":"images/maskingtape.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Packaging",
-    "groupNumber":2,
     "productName":"Packaging Tape",
     "imageSrc":"images/packagingtape.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Packaging",
-    "groupNumber":3,
     "productName":"Wooden Pallet",
     "imageSrc":"images/woodenpallet.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Packaging",
-    "groupNumber":1,
     "productName":"PVC Strap",
     "imageSrc":"images/pvcstrap.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":2,
     "productName":"Ground Rod",
     "imageSrc":"images/groundrod.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":3,
     "productName":"Ground Clamp",
     "imageSrc":"images/groundclamp.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":1,
     "productName":"Messenger Wire",
     "imageSrc":"images/messengerwire.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":2,
     "productName":"Guy Grip",
     "imageSrc":"images/guygrip.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":3,
     "productName":"Cable Grip",
     "imageSrc":"images/cablegrip.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":1,
     "productName":"Wood Molding",
     "imageSrc":"images/woodmolding.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":2,
     "productName":"Pole Clamp",
     "imageSrc":"images/poleclamp.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":3,
     "productName":"Thimble Eye Bolt",
     "imageSrc":"images/thimbleeyebolt.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":1,
     "productName":"Step Ladder",
     "imageSrc":"images/stepladder.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pole Line",
-    "groupNumber":2,
     "productName":"Extension Ladder",
     "imageSrc":"images/extensionladder.png"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pump",
-    "groupNumber":3,
     "productName":"Submersible Centrifugal Pump",
     "imageSrc":"images/submersiblecentrifugalpump.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Pump",
-    "groupNumber":1,
     "productName":"Jet Pump",
     "imageSrc":"images/jetpump.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Rope",
-    "groupNumber":2,
     "productName":"Wire Rope",
     "imageSrc":"images/wirerope.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Rope",
-    "groupNumber":3,
     "productName":"Nylon Rope",
     "imageSrc":"images/nylonrope.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Rope",
-    "groupNumber":1,
     "productName":"Abaca Rope",
     "imageSrc":"images/abacarope.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":2,
     "productName":"Safety Helmet",
     "imageSrc":"images/safetyhelmet.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":3,
     "productName":"Gloves",
     "imageSrc":"images/safetygloves.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":1,
     "productName":"Goggles",
     "imageSrc":"images/safetygoggles.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":2,
     "productName":"Respiratoir",
     "imageSrc":"images/safetyrespiratoir.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":3,
     "productName":"Safety Belt and Shoes",
     "imageSrc":"images/safetybelt.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":1,
     "productName":"Aprons",
     "imageSrc":"images/safetyaprons.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Stretch Film",
-    "groupNumber":2,
     "productName":"Hand Roll",
     "imageSrc":"images/handroll.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Stretch Film",
-    "groupNumber":3,
     "productName":"Machine Roll",
     "imageSrc":"images/machineroll.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Safety",
-    "groupNumber":1,
     "productName":"Dust Mask",
     "imageSrc":"images/dustmask.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":2,
     "productName":"Gate Valves",
     "imageSrc":"images/gatevalves.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":3,
     "productName":"Globe Valves",
     "imageSrc":"images/globevalves.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":1,
     "productName":"Ball Valves",
     "imageSrc":"images/ballvalves.png"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":2,
     "productName":"Check Valves",
     "imageSrc":"images/checkvalve.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":3,
     "productName":"Butterfy Valves",
     "imageSrc":"images/butterflyvalves.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":1,
     "productName":"Stainless Materials",
     "imageSrc":"images/stainlessvalve.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":2,
     "productName":"Cast Iron",
     "imageSrc":"images/castironvalve.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":3,
     "productName":"Forged Steel",
     "imageSrc":"images/forgedsteelvalve.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Valve",
-    "groupNumber":1,
     "productName":"Bronze Valve",
     "imageSrc":"images/bronzevalve.jpg"
   },
   {
     "groupName":"Tooling",
     "groupItem":"Wire",
-    "groupNumber":2,
     "productName":"S/S Wire Rope",
     "imageSrc":"images/sswirerope.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":1,
     "productName":"Non woven disposable beard mask",
     "imageSrc":"images/nonwovenbeardmask.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":2,
     "productName":"Non woven disposable 2 or 3 ply face mask",
     "imageSrc":"images/nonwevenfacemask.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":3,
     "productName":"Rewashable Face mask",
     "imageSrc":"images/washablefacemask.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":1,
     "productName":"Disposable paper Nurse mask",
     "imageSrc":"images/disposablenursemask.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":2,
     "productName":"Non woven disposable bouffant cap Head Cover",
     "imageSrc":"images/nonwovendisposablebouffantcapheadcover.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":3,
     "productName":"PVC shoe cover",
     "imageSrc":"images/pvcshoecover.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":1,
     "productName":"CPE shoe cover",
     "imageSrc":"images/cpeshoecover.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Cleanroom Materials",
-    "groupNumber":2,
     "productName":"Non woven shoe cover",
     "imageSrc":"images/nonwovenshoecover.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Desiccants",
-    "groupNumber":3,
     "productName":"Silica Gel - Cloth Type Packaging",
     "imageSrc":"images/silicalgelclothpackaging.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Desiccants",
-    "groupNumber":1,
     "productName":"Silica Gel - Paper Type Packaging",
     "imageSrc":"images/silicagelpaperpackaging.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Desiccants",
-    "groupNumber":2,
     "productName":"Silica Gel - Plastic Type Packaging",
     "imageSrc":"images/silicagelplastic.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Desiccants",
-    "groupNumber":3,
     "productName":"Clay - Cloth Type Packaging",
-    "imageSrc":"images/clayclothtypepackaging.jpg"
+    "imageSrc":"images/clay-cloth-type-packaging.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Desiccants",
-    "groupNumber":1,
     "productName":"Clay - Paper Type Packaging",
-    "imageSrc":"images/claypapertypepackaging.jpg"
+    "imageSrc":"images/clay-paper-type-packaging.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Desiccants",
-    "groupNumber":2,
     "productName":"Clay - Plastic Type Packaging",
-    "imageSrc":"images/clayplastictypepackaging.jpg"
+    "imageSrc":"images/clay-plastic-type-packaging.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":3,
     "productName":"Conductive Grid bag",
     "imageSrc":"images/conductivegridbag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":1,
     "productName":"Conductive Black PE bag",
     "imageSrc":"images/conductiveblackpebag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":2,
     "productName":"Aluminum Moisture Barrier Bag",
     "imageSrc":"images/aluminummoisturebarrierbag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":3,
     "productName":"Anti-Static Pink Bag",
     "imageSrc":"images/antistaticpinkbag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":1,
     "productName":"Anti Static Shielding bag",
     "imageSrc":"images/antistaticshieldingbag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":2,
     "productName":"Anti Static Ziplock PE bag",
     "imageSrc":"images/antistaticziplockpebag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":3,
     "productName":"Various Thickness of PE Foam Sheet /Roll",
     "imageSrc":"images/variousthicknessofpefoamsheetroll.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":1,
     "productName":"All types of Bubble Sheet/Roll",
     "imageSrc":"images/bubblesheets.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":2,
     "productName":"Anti-Static Pink Bubble Bag",
-    "imageSrc":"images/antistaticpinkbag.jpg"
+    "imageSrc":"images/anti-static-pink-bubble-bag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Packaging Packs",
-    "groupNumber":3,
     "productName":"Anti-Static PE Foam Bag",
-    "imageSrc":"images/antistaticpefoambag.jpg"
+    "imageSrc":"images/anti-static-pe-foam-bag.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":1,
-    "productName":"Anti-Static-Static White PP strapping band",
-    "imageSrc":"images/antistaticstaticwhiteppstrappingband.jpg"
+    "productName":"Anti-Static White PP strapping band",
+    "imageSrc":"images/antistaticwhiteppstrappingband.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":2,
     "productName":"Conductive Black PP strapping band",
     "imageSrc":"images/conductiveblackppstrappingband.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":3,
     "productName":"Conductive Grid (1mm) tape",
     "imageSrc":"images/conductivegrid1mm.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":1,
     "productName":"Conductive Grid (0.5mm) tape",
     "imageSrc":"images/conductivegrid0.5mm.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":2,
     "productName":"Conductive Hell Strap",
     "imageSrc":"images/conductivehellstrap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":3,
     "productName":"Adjustable (with buckle) wrist strap",
-    "imageSrc":"images/adjustablewithbucklewriststrap.jpg"
+    "imageSrc":"images/adjustable-wrist-strap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":1,
     "productName":"Cordless wrist strap",
     "imageSrc":"images/cordlesswriststrap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":2,
     "productName":"Cleanroom metal wrist strap",
     "imageSrc":"images/cleanroommetalwriststrap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":3,
     "productName":"Velcro band wrist strap",
     "imageSrc":"images/velcrobandwriststrap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":1,
     "productName":"Fixed elastic wrist strap (without buckle)",
     "imageSrc":"images/fixedelasticwriststrap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":2,
     "productName":"ESD PE document holder",
     "imageSrc":"images/esdpedocumentholder.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":3,
     "productName":"ESD name badge holder & clip (horizontal & vertical type)",
-    "imageSrc":"images/esdnamebadgeholder&cliphorizontal&verticaltype.jpg"
+    "imageSrc":"images/ESD-name-badge-holder-clip.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":1,
     "productName":"ESD Table mat",
     "imageSrc":"images/esdtablemat.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"ESD Protective Products",
-    "groupNumber":2,
     "productName":"Cleanroom sticky mat",
     "imageSrc":"images/cleanroomstickymat.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":3,
     "productName":"Conductive Lint free glove",
     "imageSrc":"images/conductivelintfreeglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":1,
     "productName":"Conductive PVC dot palm glove",
     "imageSrc":"images/conductivepvcdotpalmglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":2,
     "productName":"Lint free nylon glove",
     "imageSrc":"images/lintfreenylonglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":3,
     "productName":"White cotton glove",
     "imageSrc":"images/whitecottonglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":1,
     "productName":"Knitted glove",
     "imageSrc":"images/knittedglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":2,
     "productName":"Hygienic PE glove",
     "imageSrc":"images/hygienicpeglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":3,
     "productName":"Cleanroom PVC Glove",
     "imageSrc":"images/cleanroompvcglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":1,
     "productName":"Cleanroom Latex glove",
     "imageSrc":"images/cleanroomlatexglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Gloves",
-    "groupNumber":2,
     "productName":"Cleanroom Nitrile glove",
     "imageSrc":"images/cleanroomnitrileglove.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Laboratory Garments",
-    "groupNumber":3,
     "productName":"Dupont Tyvek",
     "imageSrc":"images/duponttyvek.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Laboratory Garments",
-    "groupNumber":1,
     "productName":"Polyester Cloth",
     "imageSrc":"images/polyestercloth.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Laboratory Garments",
-    "groupNumber":2,
     "productName":"Polypropylene Material",
     "imageSrc":"images/polypropylene-material.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"LDPE Machine Roll",
     "imageSrc":"images/LDPE-Machine-Roll.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"Stretch Film",
     "imageSrc":"images/stretch-film.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Recycle paper Slip Sheet",
     "imageSrc":"images/recycle-paper-slip-sheet.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"Edge Protector w/ Aluminum Foil",
     "imageSrc":"images/edge-protector.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"Pallet Rubber Band",
     "imageSrc":"images/pallet-rubber-band.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Recycle Paper Edge Protector",
     "imageSrc":"images/recycle-paper-edge-protector.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"PE/PVC Shrink Film",
     "imageSrc":"images/pe-pvc-shrink-film.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"PVC Rigid Film",
     "imageSrc":"images/pvc-rigid-film.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Black Conductive High Impact Polystyrene (HIPS)",
     "imageSrc":"images/black-conductive-high-impact-polystyrene.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"Anti-Static PVC Rigid Film",
     "imageSrc":"images/anti-static-pvc-rigid-film.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"White Ordinary High Impact Polystyrene (HIPS)",
     "imageSrc":"images/white-ordinary-high-impact-polystyrene.png"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Anti-Static Pink Convulated PU Foam",
     "imageSrc":"images/anti-static-pink-convulated-pu-foam.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"Clear Anti-static Tape with printed ESD symbols",
     "imageSrc":"images/clear-anti-static-tape-with-printed-esd-symbols.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"Anti-Static VelcroStrap",
     "imageSrc":"images/anti-static-velcro-strap.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Clear anti-Static tape",
     "imageSrc":"images/clear-anti-static-tape.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"Anti-Static Shielding Tape",
     "imageSrc":"images/anti-static-shielding-tape.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"Plastic Corrugated Black Conductive Box",
     "imageSrc":"images/plastic-corrugated-black-conductive-box.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Plastic Corrugated Black Conductive Cover Box",
     "imageSrc":"images/plastic-corrugated-black-conductive-cover-box.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"Plastic Corrugated Stackable Box",
     "imageSrc":"images/plastic-corrugated-stackable-box.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":1,
     "productName":"Plastic Corrugated Regular Box",
     "imageSrc":"images/plastic-corrugated-regular-box.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":2,
     "productName":"Plastic Corrugated Partition Box",
-    "imageSrc":"images/plasticcorrugatedpartitionbox.jpg"
+    "imageSrc":"images/plastic-corrugated-partition-box.jpeg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Packaging Materials",
-    "groupNumber":3,
     "productName":"Plastic Corrugated Stackable Box with Cushion",
-    "imageSrc":"images/plasticcorrugatedstackableboxwithcushion.jpg"
+    "imageSrc":"images/plastic-corrugated-stackable-box-with-cushion.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Band",
-    "groupNumber":1,
     "productName":"Black Anti-Static Rubber Band",
-    "imageSrc":"images/blackantistaticrubberband.jpg"
+    "imageSrc":"images/black-anti-static-rubber-band.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Band",
-    "groupNumber":2,
     "productName":"Pink Anti-Static Rubber Band",
-    "imageSrc":"images/pinkantistaticrubberband.jpg"
+    "imageSrc":"images/pink-anti-static-rubber-band.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":3,
     "productName":"Static Dissipative Black (Rough Surface) Finger Stalls",
-    "imageSrc":"images/staticdissipativeblackroughsurfacefingerstalls.jpg"
+    "imageSrc":"images/static-dissipative-black-finger-stalls.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":1,
     "productName":"Ordinary Powder free white finger cots",
     "imageSrc":"images/ordinary-powder-free-white-finger-cots.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":2,
     "productName":"Anti-Static Pink Powder free finger cots",
     "imageSrc":"images/anti-static-pink-powder-free-finger-cots.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":3,
     "productName":"Anti Static chlorinated yellow powder free finger cots",
     "imageSrc":"images/anti-static-chlorinated-yellow-powder-free-finger-cots.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":1,
     "productName":"Static Dissipative Black Finger Stalls",
     "imageSrc":"images/static-dissipative-black-finger-stalls.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":2,
     "productName":"Orange Finger Stalls",
     "imageSrc":"images/orange-finger-stalls.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":3,
     "productName":"Conductive Black finger cots",
     "imageSrc":"images/conductive-black-finger-cots.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":1,
     "productName":"Ordinary Transparent powder free finger cots",
     "imageSrc":"images/ordinary-transparent-powder-free-finger-cots.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":2,
     "productName":"Cleanroom transparent finger cots",
     "imageSrc":"images/cleanroom-transparent-finger-cots.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Rubber Finger Cots",
-    "groupNumber":3,
     "productName":"Transparent finger stalls",
     "imageSrc":"images/transparent-finger-stalls.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":1,
     "productName":"Cleanroom Chairs",
     "imageSrc":"images/cleanroom-chairs.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":2,
     "productName":"Wire Meshing Shielving",
     "imageSrc":"images/wire-meshing-shielving.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":3,
     "productName":"Laminar Flow Benches",
     "imageSrc":"images/laminar-flow-benches.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":1,
     "productName":"Air Shower & pass through Boxes",
     "imageSrc":"images/air-shower-pass-through-boxes.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":2,
     "productName":"ESD Field Service Kit",
     "imageSrc":"images/ESD-field-service-kit.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":3,
     "productName":"Tweezers",
     "imageSrc":"images/tweezers.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":1,
     "productName":"Kapton Tape",
     "imageSrc":"images/kapton-tape.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":2,
     "productName":"ESD Hose",
     "imageSrc":"images/ESD-hose.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":3,
     "productName":"Anti-Static Cellphone Tape",
     "imageSrc":"images/anti-static-cellphone-tape.jpg"
   },
   {
     "groupName":"Cleanroom and Packaging",
     "groupItem":"Others",
-    "groupNumber":1,
     "productName":"ESD Control Garment Systems",
     "imageSrc":"images/ESD-control-garment-systems.jpg"
   }
