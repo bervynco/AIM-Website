@@ -46,15 +46,13 @@ p {
 
 /* ADDED PADDING IN NAVBAR */
 
-
-.navbar {
-    padding:15px;  
-}
 .navbar-logo {
     width:200px;
-    height:50px;
+    height:80px;
 }
-
+.navbar-collapse{
+    padding:20px;
+}
 /* CLASS FOR REMOVING PADDING IN NAVBAR*/
 
 
